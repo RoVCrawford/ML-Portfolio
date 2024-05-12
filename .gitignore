@@ -1,0 +1,30 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large datasets
+*.csv
+*.json
+*.txt
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Package manager files
+/dist/
+/build/
+
+# Logs
+*.log
